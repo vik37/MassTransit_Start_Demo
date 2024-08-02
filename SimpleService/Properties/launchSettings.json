@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "SimpleService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "nativeDebugging": true,
+      "remoteDebugEnabled": false,
+      "jsWebView2Debugging": false
+    }
+  }
+}
